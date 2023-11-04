@@ -1,0 +1,15 @@
+C:\Users\kjell\Desktop\VSC Projects\EttKlassdiagram\obj\Debug\net7.0\EttKlassdiagram.csproj.AssemblyReference.cache
+C:\Users\kjell\Desktop\VSC Projects\EttKlassdiagram\obj\Debug\net7.0\EttKlassdiagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kjell\Desktop\VSC Projects\EttKlassdiagram\obj\Debug\net7.0\EttKlassdiagram.AssemblyInfoInputs.cache
+C:\Users\kjell\Desktop\VSC Projects\EttKlassdiagram\obj\Debug\net7.0\EttKlassdiagram.AssemblyInfo.cs
+C:\Users\kjell\Desktop\VSC Projects\EttKlassdiagram\obj\Debug\net7.0\EttKlassdiagram.csproj.CoreCompileInputs.cache
+C:\Users\kjell\Desktop\VSC Projects\EttKlassdiagram\bin\Debug\net7.0\EttKlassdiagram.exe
+C:\Users\kjell\Desktop\VSC Projects\EttKlassdiagram\bin\Debug\net7.0\EttKlassdiagram.deps.json
+C:\Users\kjell\Desktop\VSC Projects\EttKlassdiagram\bin\Debug\net7.0\EttKlassdiagram.runtimeconfig.json
+C:\Users\kjell\Desktop\VSC Projects\EttKlassdiagram\bin\Debug\net7.0\EttKlassdiagram.dll
+C:\Users\kjell\Desktop\VSC Projects\EttKlassdiagram\bin\Debug\net7.0\EttKlassdiagram.pdb
+C:\Users\kjell\Desktop\VSC Projects\EttKlassdiagram\obj\Debug\net7.0\EttKlassdiagram.dll
+C:\Users\kjell\Desktop\VSC Projects\EttKlassdiagram\obj\Debug\net7.0\refint\EttKlassdiagram.dll
+C:\Users\kjell\Desktop\VSC Projects\EttKlassdiagram\obj\Debug\net7.0\EttKlassdiagram.pdb
+C:\Users\kjell\Desktop\VSC Projects\EttKlassdiagram\obj\Debug\net7.0\EttKlassdiagram.genruntimeconfig.cache
+C:\Users\kjell\Desktop\VSC Projects\EttKlassdiagram\obj\Debug\net7.0\ref\EttKlassdiagram.dll

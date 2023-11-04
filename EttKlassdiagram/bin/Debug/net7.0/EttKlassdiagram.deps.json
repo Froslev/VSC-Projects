@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "EttKlassdiagram/1.0.0": {
+        "runtime": {
+          "EttKlassdiagram.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EttKlassdiagram/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
